@@ -1,0 +1,29 @@
+{
+    "image_info": {
+        "filename": "frames2/frame_001.jpg",
+        "width": 1920,
+        "height": 1080
+    },
+    "annotations": [
+        {
+            "class_id": 0,
+            "label": "xe",
+            "bbox": [
+                100,
+                200,
+                500,
+                450
+            ]
+        },
+        {
+            "class_id": 1,
+            "label": "người",
+            "bbox": [
+                650,
+                300,
+                750,
+                600
+            ]
+        }
+    ]
+}
